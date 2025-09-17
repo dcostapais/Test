@@ -1,6 +1,0 @@
-numpy
-matplotlib
-control
-ipywidgets
-sympy
-voila
