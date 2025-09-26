@@ -1,8 +1,0 @@
-numpy
-matplotlib
-control
-ipywidgets
-ipython
-sympy
-voila
-
